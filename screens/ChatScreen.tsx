@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { StyleSheet } from 'react-native';
-import ChatListItem from '../components/ChatListItem.js';
+import ChatListItem from '../components/ChatListItem/index';
 import { View } from '../components/Themed';
 
 import chatRooms from '../data/ChatRooms';
